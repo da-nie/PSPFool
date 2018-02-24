@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="ccardkit.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="1275" topLine="49" />
+	</File>
+	<File name="ccardkit.h" open="1" top="0" tabpos="1">
+		<Cursor position="1118" topLine="0" />
+	</File>
+	<File name="cgame.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="36882" topLine="1065" />
+	</File>
+	<File name="cgame.h" open="0" top="0" tabpos="3">
+		<Cursor position="437" topLine="0" />
+	</File>
+	<File name="csprite.h" open="0" top="0" tabpos="0">
+		<Cursor position="522" topLine="6" />
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="420" topLine="0" />
+	</File>
+	<File name="video.cpp" open="1" top="1" tabpos="3">
+		<Cursor position="1344" topLine="0" />
+	</File>
+	<File name="video.h" open="0" top="0" tabpos="0">
+		<Cursor position="2345" topLine="15" />
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Fool" />
+		<Option makefile_is_custom="1" />
+		<Option pch_mode="2" />
+		<Option compiler="psp_compiler" />
+		<Build>
+			<Target title="Release">
+				<Option output="Rubicube.exe" prefix_auto="0" extension_auto="0" />
+				<Option object_output="obj\Release\" />
+				<Option type="0" />
+				<Option compiler="psp_compiler" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+				<MakeCommands>
+					<Build command="$make" />
+					<CompileFile command="" />
+					<Clean command="$make clean" />
+					<DistClean command="" />
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="ccardkit.cpp" />
+		<Unit filename="ccardkit.h" />
+		<Unit filename="cgame.cpp" />
+		<Unit filename="cgame.h" />
+		<Unit filename="csprite.cpp" />
+		<Unit filename="csprite.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="video.cpp" />
+		<Unit filename="video.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

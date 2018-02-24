@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Name: durack
+Created-By: 1.4.2_08 (Sun Microsystems Inc.)
+MIDlet-Vendor: barracuda 2.0, Inc.
+MIDlet-1: durack, /res/icons/icon.png, f.ap
+MIDlet-Version: 1.0
+MicroEdition-Profile: MIDP-1.0
+MIDlet-Description: cards game
+
